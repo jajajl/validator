@@ -1,4 +1,4 @@
-Package validator
+gfryPackage validator
 =================
 <img align="right" src="logo.png">[![Join the chat at https://gitter.im/go-playground/validator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/go-playground/validator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Project status](https://img.shields.io/badge/version-10.25.0-green.svg)
